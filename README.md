@@ -78,14 +78,14 @@ Our system's "Smart Match" component utilizes Python-based machine learning and 
  ## Screenshots
 
  ### Customization Features
- <img width="1148" alt="Screen Shot 2024-06-06 at 8 54 18 PM" src="https://github.com/cs100/final-project-xwu150-czhan251-moseg004-sdash007/assets/137257750/c542aa13-835b-4a99-87b3-80bf5f970eee">
- <img width="1211" alt="Screen Shot 2024-06-06 at 8 56 13 PM" src="https://github.com/cs100/final-project-xwu150-czhan251-moseg004-sdash007/assets/137257750/b3101b51-fdf2-482b-9bdb-5d2bb9f65f39">
-<img width="1147" alt="Screen Shot 2024-06-06 at 8 57 46 PM" src="https://github.com/cs100/final-project-xwu150-czhan251-moseg004-sdash007/assets/137257750/f207a97c-0beb-4d1d-9483-49ca65124bef">
-<img width="1127" alt="Screen Shot 2024-06-06 at 8 59 09 PM" src="https://github.com/cs100/final-project-xwu150-czhan251-moseg004-sdash007/assets/137257750/340f1f26-2469-423f-ae5f-efa9d930e194">
+![img](./Element/Screenshot/img1.png)
+![img](./Element/Screenshot/img2.png)
+![img](./Element/Screenshot/img3.png)
+![img](./Element/Screenshot/img4.png)
 
 ### Intelligent Matching System
-![alt text](./Element/Screenshot/image.png)
-![alt text](./Element/Screenshot/image-2.png)
+![img](./Element/Screenshot/image.png)
+![img](./Element/Screenshot/image-2.png)
 
  ## Installation/Usage
 
